@@ -1,5 +1,4 @@
 PsychodelicDriver
-
 =================
 
 Projekt na drugie laboratorium z grafiki komputerowej (MINI PW)
